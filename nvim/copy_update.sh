@@ -1,1 +1,1 @@
-cp ~/.config/nvim/init.vim ./inti.vim
+cp ~/.config/nvim/init.vim ./init.vim
