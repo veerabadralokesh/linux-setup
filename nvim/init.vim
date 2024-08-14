@@ -22,4 +22,5 @@ set ttyfast                 " Speed up scrolling in Vim
 "set spell                 " enable spell check (may need to download language package)
 set noswapfile            " disable creating swap file
 set backupdir=~/.cache/nvim " Directory to store backup files.
+set rnu                     " relative line numbers
 
