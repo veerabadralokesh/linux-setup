@@ -23,4 +23,5 @@ set ttyfast                 " Speed up scrolling in Vim
 set noswapfile            " disable creating swap file
 set backupdir=~/.cache/nvim " Directory to store backup files.
 set rnu                     " relative line numbers
+set autochdir               " change to the current file's directory
 
